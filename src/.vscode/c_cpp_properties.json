@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/gogo/RL_gezo/devel/include/**",
+        "/home/gogo/UAV_rotors/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/gogo/catkin_ws/devel/include/**",
+        "/home/gogo/catkin_ws/src/control/include/**",
+        "/home/gogo/catkin_ws/src/mav_comm/mav_msgs/include/**",
+        "/home/gogo/catkin_ws/src/mav_comm/mav_planning_msgs/include/**",
+        "/home/gogo/RL_gezo/src/rotors_simulator_modified/rotors_control/include/**",
+        "/home/gogo/RL_gezo/src/rotors_simulator_modified/rotors_gazebo_plugins/include/**",
+        "/home/gogo/RL_gezo/src/rotors_simulator_modified/rotors_hil_interface/include/**",
+        "/home/gogo/RL_gezo/src/rotors_simulator_modified/rotors_joy_interface/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
